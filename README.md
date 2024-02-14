@@ -10,7 +10,7 @@ iCAL Event Maker is a simple web application that allows users to create iCAL (.
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ical-event-maker.git
+   git clone https://github.com/nikhiltamatta/ical-event-maker.git
    ```
 2. Navigate to the project directory:
    ```
